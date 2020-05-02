@@ -1,0 +1,49 @@
+body {
+
+
+    justify-content: center;
+    background-color: gray;
+    text-align: center; 
+    width: 100%;
+    margin: 0px;
+    padding: 0px;
+}
+main {
+    display: flex;
+    justify-content: center;
+}
+div {
+margin-top: 3%;
+    justify-content: center;
+}
+.content {
+    display: flex;
+    justify-content: center;
+    border: 15px solid black;
+    border-radius: 20px;
+    
+    width: 50%;
+    height: 40%;
+}
+.gma, .pass {
+    display: flex;
+}
+input {
+    margin-top: 9%;
+    height: 2%;
+}
+.login1 {
+    font-family: 'Germania One', cursive;
+    font-size: 500%;
+}
+* {
+
+}
+.input_text {
+    color: red;
+}
+button {
+    
+    margin-left: 3%;
+    margin-right: 3%;
+}
